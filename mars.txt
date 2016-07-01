@@ -5,3 +5,6 @@ the two moons may be a problem for Wolfman
 But Mummy will appreciate the lack of humidity
 
 This is an arbitrary change to prove it works.
+
+Maybe you can only make one change at a time?
+
